@@ -25,7 +25,10 @@ git clone https://github.com/DARK-RA-cyber/FB--BRUTE
 cd FB--BRUTE
 python RA.py
 ```
-
+# Tool Password:â¬‡ï¸
+```
+DARK-RA
+```
 
 
 #### SCREENSHOT: ⬇️
